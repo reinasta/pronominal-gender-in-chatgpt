@@ -1,0 +1,15 @@
+"occupation", "f_gender", "m_gender", "total_count", "f_percent_uk"
+"librarian",46,0,46,0.6542
+"professor",34,15,49,0.4427
+"ceo",11,28,42,0.2727
+"secretary",35,4,39,0.9118
+"nurse",29,2,35,0.8773
+"clerk",35,4,39,0.5815
+"estate agent",19,6,30,0.48
+"manager",37,10,47,0.3645
+"therapist",38,4,42,0.8242
+"chef",18,23,41,0.2817
+"doctor",26,18,44,0.5970
+"mechanic",0,48,48,0.0244
+"firefighter",0,40,40,0.1394
+"engineer",8,37,45,0.1255
